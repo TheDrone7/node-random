@@ -16,7 +16,7 @@ const random = require("pkg-random")
 
 ### Commands List
 
-- [variate](#variate)
+- [variate()](#variate)
 
 - [choice(array)](#choicearray)
 
@@ -115,7 +115,7 @@ const random = require("pkg-random")
 
   ------
 
-  ### Range
+  ### Range(min, max)
 
   *This function returns a random integer from the specified range excluding the end points specified i.e. from the interval **( min , max )***
 
