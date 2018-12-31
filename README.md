@@ -14,7 +14,7 @@ const random = require("pkg-random")
 
 ------
 
-### Commands List
+### Methods List
 
 - [variate()](#variate)
 
