@@ -16,11 +16,11 @@ const random = require("pkg-random")
 
 ### Commands List
 
-- [variate](#Variate())
+- [variate](#variate)
 
-- [choice(array)](#Choice(array))
+- [choice(array)](#choicearray)
 
-- [choices(array , n)](#Choices(array , n))
+- [choices(array , n)](#choicesarrayn)
 
 - [randint(min, max)](#Randint(min, max))
 
