@@ -20,15 +20,15 @@ const random = require("pkg-random")
 
 - [choice(array)](#choicearray)
 
-- [choices(array , n)](#choicesarrayn)
+- [choices(array , n)](#choicesarray-n)
 
-- [randint(min, max)](#Randint(min, max))
+- [randint(min, max)](#randintmin-max))
 
-- [range(min, max)](#Range(min, max))
+- [range(min, max)](#rangemin-max)
 
-- sample(array, n)
+- [sample(array, n)](#samplearray-n)
 
-- shuffle(array)
+- [shuffle(array)](#shufflearray)
 
 
 
