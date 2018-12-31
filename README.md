@@ -214,7 +214,7 @@ const random = require("pkg-random");
 console.log(random.sentenceArray(5, 4, 8)) // Outputs an array of 5 sentences, each having at least 4 and at most 8 words
 ```
 
-
+***This returns an array of n sentences, each with*** `min` ***words if*** `max` ***is not specified.***
 
 ------
 
