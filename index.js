@@ -10,6 +10,9 @@ class Random{
 	// Returns a random element from the array
 	// If the array is actually a string, returns a random character from string
 	// Returns undefined otherwise
+	/**
+	*@param {Array} arr the Array from which to chose
+	*/
 	static choice(arr){
 		if(arr.length < 1){
 			return undefined
